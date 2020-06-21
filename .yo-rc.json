@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.lolcatcodes.foodify"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "Foodify",
+    "packageName": "com.lolcatcodes.foodify",
+    "packageFolder": "com/lolcatcodes/foodify",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDQwZmU5OWIwZDcxNDMwN2U5MTA2N2ZlOWQ2OGIyODRjMjNjMDFlNDNjODVjZTZkNmQ2OTFkYmZiZGY1ZWJmZmVjYmQzZjEwMjdmZjdjYThmZDczOGUwNzcxZjI0MWJmZGEzOWEzZmNjMDAyODc0YTFkZGEzNGMxY2Y2MGI3ZGQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "pulse",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1592719719999,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-primeng-charts",
+        "version": "1.2.0"
+      }
+    ],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
